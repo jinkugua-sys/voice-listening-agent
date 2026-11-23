@@ -1,0 +1,4 @@
+# 服务化依赖（只跑 CLI 可以不装）
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
